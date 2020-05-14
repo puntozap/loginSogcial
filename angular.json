@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "loginSogcial"
+    }
+  },
+  "defaultProject": "loginSogcial",
+  "cli": {
+    "analytics": "3c35be14-e3a9-43bf-b77b-cec232cad062"
+  }
 }
